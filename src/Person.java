@@ -22,8 +22,7 @@ public class Person {
         this.lastName = lastName;
     }
 
-
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         return Person;
     }
 }
