@@ -20,7 +20,7 @@ public class Assessment {
 
 
         double[] vals = new double[5];
-        System.out.print("Please enter five integers: ");
+        System.out.println("Please enter five integers: ");
 
         for (int i = 0; i < 5; i++)
             vals[i] = in.nextDouble();
